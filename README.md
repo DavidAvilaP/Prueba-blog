@@ -1,2 +1,7 @@
-# Prueba-blog
-Prueba inicial blog increíble, curso Git y GitHub.
+# #hyperblog
+
+> Esto es un readmi muy interesante.
+
+## Autor:
+
+**David Avila**  :smile:
